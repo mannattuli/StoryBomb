@@ -1,0 +1,55 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: #39ff14;
+}
+
+h2 {
+  color: #39ff14;
+}
+
+h3 {
+  color: #39ff14;
+  text-align: center;
+}
+
+.play {
+  font-size: 40px;
+  color: #39ff14;
+  text-decoration: none;
+}
+
+.play:hover {
+  font-size: 40px;
+  color: green;
+  text-decoration: none;
+}
+
+.padded {
+  margin: 0px 10% 0px 10%;
+}
+
+.text {
+  color: #39ff14;
+}
+
+.links {
+  color: #39ff14;
+  text-decoration: none;
+}
+
+.links:hover {
+  color: #39ff14;
+  text-decoration: underline;
+}
+
+.story {
+  color: wheat;
+  margin: 0px 0px 3%;
+}
+
+.hidden {
+  display: none;
+}
