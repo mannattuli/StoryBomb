@@ -4,10 +4,12 @@ body {
 
 h1 {
   color: #39ff14;
+  font-family: 'Press Start 2P', cursive;
 }
 
 h2 {
   color: #39ff14;
+  font-family: 'Press Start 2P', cursive;
 }
 
 h3 {
@@ -19,6 +21,7 @@ h3 {
   font-size: 40px;
   color: #39ff14;
   text-decoration: none;
+  font-family: 'Press Start 2P', cursive;
 }
 
 .play:hover {
